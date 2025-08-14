@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "916143730804",
+    "project_id": "truklynk",
+    "storage_bucket": "truklynk.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916143730804:android:d6506d83a65e750e916121",
+        "android_client_info": {
+          "package_name": "com.truklynk.serviceprovider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDekEu1EUPF1slenU2O8rvo5p4Aozei9vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916143730804:android:cabd57e88e15dae5916121",
+        "android_client_info": {
+          "package_name": "com.truklynk.userApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDekEu1EUPF1slenU2O8rvo5p4Aozei9vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916143730804:android:04b516794f9ae538916121",
+        "android_client_info": {
+          "package_name": "com.truklynk.vehicle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDekEu1EUPF1slenU2O8rvo5p4Aozei9vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

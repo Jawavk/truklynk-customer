@@ -1,0 +1,701 @@
+{
+    "routes": [
+        {
+            "legs": [
+                {
+                    "distanceMeters": 19716,
+                    "duration": "3027s",
+                    "staticDuration": "2681s",
+                    "polyline": {
+                        "encodedPolyline": "{oznAky|hN@Qx@GfBQ^Ep@EvAIRApCU`AGd@Cr@GVCDNFPBHDV@\\Bv@Bv@DbB@vC@|B?NAlA@H?d@AbC?b@At@A|B@`@@p@^AlCOd@ExAK\\C^ENAPANClCM@?JAnAEVAL?X@nALB@ZNDCDCBAD?B?D?B@DBBB@BBD@D?D?DADCBJBB@B@@?@@@@?@DJFLTh@b@bAN\\HLNX^n@HNj@z@n@`A|@pAfAtAHLn@t@^f@`@d@TRPRTNNH?A@??A@??A@?@?@A@?@?@?@??@@?@??@@?@@?@@??@@??@?@?@?@@??@?@A@XCF?dADdCHxADtAFX@R?zBHl@BZ@f@@rADL@J?B@|@@N@X@b@?pABX@n@BD?H?H@J?H@h@AN@Z@RBXDp@JTFR?F?B@FCz@Fh@H`@Hh@J`@JxAb@jAVXF^JLk@h@kCHe@Fe@B_@BUBO@IBKBGDGJOLKVSt@e@h@_@j@g@`A{@V[NNfA|AZb@pBrCNPp@v@JLNTf@j@v@fAb@l@PT`ApAp@~@d@l@h@p@FJbAtAh@r@JL`AfA~@|@t@p@`BrAFDXVLL|@pAvFpId@l@l@t@X`@h@v@v@nAjApBNVFJlAfBfAbBT\\FJLPHJJLHLLJNNHJXTNLFDPHHFFBNFFBJBLFNBRHXDXDL@TDnANRBh@FF@PBp@Dj@BhBFFBNBJ@JBLBFBFBNHPHFDHFLHLJFFNJf@f@f@d@PP\\TPFLFTDz@NnD^v@HZDxAPt@HzC^~AP~@JTBJ@rAPdBPL@J@^Dv@JJ@\\DTBb@Dd@FD@p@FNB|@LrBXv@JRB\\FnBVl@HJ@vAN^D^Fv@NvAVTD`AL`@Fp@HNBVF^FVDVH\\N\\\\Z`@PT`BbC\\f@T^`@l@vAlB`@f@^h@PV\\j@PVR^TZHNT\\HRTf@@FP`@pA|CbAzCb@fAFP`@z@N\\\\r@JRn@rAr@xAZn@Vf@JNT^DHp@|@z@dAx@x@hBrBb@n@T\\hA~Bh@hAf@dAzAxC\\z@Tl@Pd@HXHXBN@FFVh@nCRhAXz@Ph@Td@r@lA?@FH`@j@hA|ARZz@hAX^`ApA~@lA@BJJLNZX~ArA~CjCtChBzAfAhAx@pAx@TNNHTJNFND\\FPBN@N@PARARCNCdGiB`@MhA[VIJCz@W`AQNCr@O|B}@HAREHC`B_@LEdBc@bA[pBk@|@[l@Ox@Y|C{@`FyAr@IJAH?H?L@F@B@DBBBBDBD@B@B?B?DABADEJIXiBjFEPAD?DAN}@dCi@rAIVIXWv@Y~@IZc@rAUv@AFSj@IVERKVU`AUx@EPQ|@Kb@?BABGTCJK`@Np@VhAPr@Lp@`@fB@DR~@n@xCNf@ZbADPX|@Ld@?@J^L`@^`A^fAHTLZFTDNBL@HBT?DBTLjB?HBL?F@F@DBJBJDLTp@t@`CFRrAtEDHBJDJJb@Lp@J\\Lj@T|@BHNj@Jb@V~@JZP|@VnAFXFZDh@F~@Fv@@HJlAFr@B\\Dj@Fj@Dt@F|@Dd@DhAFF@BFNJ\\DNFRDVPj@L\\FTHX^~@BFJXJVr@nAJN^h@V^NVXb@RXT^Hh@Tp@Vd@\\`@TVTRHDFHLVFBTJXHd@Nx@R~@RXB`@Fh@HvB\\ZJ^N\\NJFFDPLLLLN^p@J^H^BV@`@AR?N?P?FAJC\\E\\MtAMrBEr@A`@AH@`@BZDXJZP^Xb@f@l@HJLPJPNPjA`BzB~CXZf@t@x@dAj@|@bArAbApA`@j@PVHJHLPRdB`CV\\@Bv@fAj@t@f@p@TVj@n@v@x@t@z@^n@d@z@BFFPb@fAf@hAN^LXVr@FNDJRd@\\z@p@zAnA`DBJZp@p@xArBtEjAxBNZRXjAlBpElGpCxDr@~@x@lAr@~@\\`@v@bAbAvA|AdCzC`F\\h@HLHLtCrEp@nA`@p@n@jAfB|CnB~CLT~@hBb@x@T`@tArCnAdCnAdCrAnClA|Bd@|@LTNVh@dAa@^IFSPj@|@Vb@LXH^HZRv@JRFLLNTTWVQJg@Rs@XM\\Qk@GYSk@Mg@]XHV"
+                    },
+                    "startLocation": {
+                        "latLng": {
+                            "latitude": 13.0843007,
+                            "longitude": 80.2704622
+                        }
+                    },
+                    "endLocation": {
+                        "latLng": {
+                            "latitude": 12.981974,
+                            "longitude": 80.1648596
+                        }
+                    },
+                    "steps": [
+                        {
+                            "distanceMeters": 376,
+                            "staticDuration": "96s",
+                            "polyline": {
+                                "encodedPolyline": "{oznAky|hN@Qx@GfBQ^Ep@EvAIRApCU`AGd@Cr@G"
+                            },
+                            "startLocation": {
+                                "latLng": {
+                                    "latitude": 13.0843007,
+                                    "longitude": 80.2704622
+                                }
+                            },
+                            "endLocation": {
+                                "latLng": {
+                                    "latitude": 13.0810239,
+                                    "longitude": 80.271009499999991
+                                }
+                            },
+                            "navigationInstruction": {
+                                "maneuver": "DEPART",
+                                "instructions": "NH 179Bৰ পৰা দক্ষিণ-পূবৰ দিশত Raja Muthiah Rdলৈ আগবাঢ়ক"
+                            },
+                            "localizedValues": {
+                                "distance": {
+                                    "text": "০.৪ কিল’মিটাৰ"
+                                },
+                                "staticDuration": {
+                                    "text": "2 mins"
+                                }
+                            },
+                            "travelMode": "DRIVE"
+                        },
+                        {
+                            "distanceMeters": 646,
+                            "staticDuration": "111s",
+                            "polyline": {
+                                "encodedPolyline": "k{ynAy||hNVCDNFPBHDV@\\Bv@Bv@DbB@vC@|B?NAlA@H?d@AbC?b@At@A|B@`@@p@"
+                            },
+                            "startLocation": {
+                                "latLng": {
+                                    "latitude": 13.0810239,
+                                    "longitude": 80.271009499999991
+                                }
+                            },
+                            "endLocation": {
+                                "latLng": {
+                                    "latitude": 13.080686799999999,
+                                    "longitude": 80.265217499999991
+                                }
+                            },
+                            "navigationInstruction": {
+                                "maneuver": "TURN_RIGHT",
+                                "instructions": "(সোঁফালে থকা) National Durbar Restaurant পোৱাৰ পিছতে সোঁফালে ঘূৰক"
+                            },
+                            "localizedValues": {
+                                "distance": {
+                                    "text": "০.৬ কিল’মিটাৰ"
+                                },
+                                "staticDuration": {
+                                    "text": "2 mins"
+                                }
+                            },
+                            "travelMode": "DRIVE"
+                        },
+                        {
+                            "distanceMeters": 465,
+                            "staticDuration": "73s",
+                            "polyline": {
+                                "encodedPolyline": "iyynAsx{hN^AlCOd@ExAK\\C^ENAPANClCM@?JAnAEVAL?X@nALB@ZN"
+                            },
+                            "startLocation": {
+                                "latLng": {
+                                    "latitude": 13.080686799999999,
+                                    "longitude": 80.265217499999991
+                                }
+                            },
+                            "endLocation": {
+                                "latLng": {
+                                    "latitude": 13.0765613,
+                                    "longitude": 80.2654369
+                                }
+                            },
+                            "navigationInstruction": {
+                                "maneuver": "TURN_LEFT",
+                                "instructions": "Gandhi Irwin Bridge Rd পাবলৈ বাওঁফালে ঘূৰক\n(বাওঁফালে থকা)Government College of Fine Artsৰ ওচৰেদি যাওক"
+                            },
+                            "localizedValues": {
+                                "distance": {
+                                    "text": "০.৫ কিল’মিটাৰ"
+                                },
+                                "staticDuration": {
+                                    "text": "1 min"
+                                }
+                            },
+                            "travelMode": "DRIVE"
+                        },
+                        {
+                            "distanceMeters": 602,
+                            "staticDuration": "90s",
+                            "polyline": {
+                                "encodedPolyline": "o_ynA_z{hNDCDCBAD?B?D?B@DBBB@BBD@D?D?DADCBJBB@B@@?@@@@?@DJFLTh@b@bAN\\HLNX^n@HNj@z@n@`A|@pAfAtAHLn@t@^f@`@d@TRPRTNNH"
+                            },
+                            "startLocation": {
+                                "latLng": {
+                                    "latitude": 13.0765613,
+                                    "longitude": 80.2654369
+                                }
+                            },
+                            "endLocation": {
+                                "latLng": {
+                                    "latitude": 13.073272699999999,
+                                    "longitude": 80.2613028
+                                }
+                            },
+                            "navigationInstruction": {
+                                "maneuver": "ROUNDABOUT_LEFT",
+                                "instructions": "ঘূৰণীয়া চক্ৰটোত Pantheon Rdৰ ফালে পোনে পোনে গৈ থাকক\n(বাওঁফালে থকা)গীৰ্জাঘৰটোৰ ওচৰেদি যাওক"
+                            },
+                            "localizedValues": {
+                                "distance": {
+                                    "text": "০.৬ কিল’মিটাৰ"
+                                },
+                                "staticDuration": {
+                                    "text": "2 mins"
+                                }
+                            },
+                            "travelMode": "DRIVE"
+                        },
+                        {
+                            "distanceMeters": 1063,
+                            "staticDuration": "154s",
+                            "polyline": {
+                                "encodedPolyline": "}jxnAc`{hN?A@??A@??A@?@?@A@?@?@?@??@@?@??@@?@@?@@??@@??@?@?@?@@??@?@A@XCF?dADdCHxADtAFX@R?zBHl@BZ@f@@rADL@J?B@|@@N@X@b@?pABX@n@BD?H?H@J?H@h@AN@Z@RBXDp@JTFR?F?B@FCz@Fh@H`@Hh@J`@JxAb@jAVXF^J"
+                            },
+                            "startLocation": {
+                                "latLng": {
+                                    "latitude": 13.073272699999999,
+                                    "longitude": 80.2613028
+                                }
+                            },
+                            "endLocation": {
+                                "latLng": {
+                                    "latitude": 13.0639431,
+                                    "longitude": 80.2600337
+                                }
+                            },
+                            "navigationInstruction": {
+                                "maneuver": "ROUNDABOUT_LEFT",
+                                "instructions": "ঘূৰণীয়া চক্ৰটোত দ্বিতীয়ৰে Marshalls Rd/Rukmani Lakshmipathi Rdলৈ ওলাই যাওক"
+                            },
+                            "localizedValues": {
+                                "distance": {
+                                    "text": "১.১ কিল’মিটাৰ"
+                                },
+                                "staticDuration": {
+                                    "text": "3 mins"
+                                }
+                            },
+                            "travelMode": "DRIVE"
+                        },
+                        {
+                            "distanceMeters": 246,
+                            "staticDuration": "34s",
+                            "polyline": {
+                                "encodedPolyline": "spvnAexzhNLk@h@kCHe@Fe@B_@BUBO@IBKBGDGJOLKVS"
+                            },
+                            "startLocation": {
+                                "latLng": {
+                                    "latitude": 13.0639431,
+                                    "longitude": 80.2600337
+                                }
+                            },
+                            "endLocation": {
+                                "latLng": {
+                                    "latitude": 13.063184999999999,
+                                    "longitude": 80.26211219999999
+                                }
+                            },
+                            "navigationInstruction": {
+                                "maneuver": "TURN_LEFT",
+                                "instructions": "Ethiraj Salai পাবলৈ বাওঁফালে ঘূৰক"
+                            },
+                            "localizedValues": {
+                                "distance": {
+                                    "text": "০.২ কিল’মিটাৰ"
+                                },
+                                "staticDuration": {
+                                    "text": "1 min"
+                                }
+                            },
+                            "travelMode": "DRIVE"
+                        },
+                        {
+                            "distanceMeters": 147,
+                            "staticDuration": "27s",
+                            "polyline": {
+                                "encodedPolyline": "{kvnAee{hNt@e@h@_@j@g@`A{@"
+                            },
+                            "startLocation": {
+                                "latLng": {
+                                    "latitude": 13.063184999999999,
+                                    "longitude": 80.26211219999999
+                                }
+                            },
+                            "endLocation": {
+                                "latLng": {
+                                    "latitude": 13.062149499999999,
+                                    "longitude": 80.2629566
+                                }
+                            },
+                            "navigationInstruction": {
+                                "maneuver": "NAME_CHANGE",
+                                "instructions": "Binny Rdতে গৈ থাকক"
+                            },
+                            "localizedValues": {
+                                "distance": {
+                                    "text": "০.১ কিল’মিটাৰ"
+                                },
+                                "staticDuration": {
+                                    "text": "1 min"
+                                }
+                            },
+                            "travelMode": "DRIVE"
+                        },
+                        {
+                            "distanceMeters": 1515,
+                            "staticDuration": "210s",
+                            "polyline": {
+                                "encodedPolyline": "mevnAoj{hNV[NNfA|AZb@pBrCNPp@v@JLNTf@j@v@fAb@l@PT`ApAp@~@d@l@h@p@FJbAtAh@r@JL`AfA~@|@t@p@`BrAFDXVLL|@pAvFpId@l@l@t@X`@h@v@v@nAjApB"
+                            },
+                            "startLocation": {
+                                "latLng": {
+                                    "latitude": 13.062149499999999,
+                                    "longitude": 80.2629566
+                                }
+                            },
+                            "endLocation": {
+                                "latLng": {
+                                    "latitude": 13.053411599999999,
+                                    "longitude": 80.2525514
+                                }
+                            },
+                            "navigationInstruction": {
+                                "maneuver": "TURN_RIGHT",
+                                "instructions": "Anna Salai/Chennai - Trichy Hwy/Mount Rd/Nagapattinam-Chennai Hwyলৈ যাবলৈ সোঁফালে ঘূৰক\n(বাওঁফালে থকা)Anna Salai D2 Police Stationৰ ওচৰেদি যাওক"
+                            },
+                            "localizedValues": {
+                                "distance": {
+                                    "text": "১.৫ কিল’মিটাৰ"
+                                },
+                                "staticDuration": {
+                                    "text": "4 mins"
+                                }
+                            },
+                            "travelMode": "DRIVE"
+                        },
+                        {
+                            "distanceMeters": 6278,
+                            "staticDuration": "816s",
+                            "polyline": {
+                                "encodedPolyline": "yntnAmiyhNNVFJlAfBfAbBT\\FJLPHJJLHLLJNNHJXTNLFDPHHFFBNFFBJBLFNBRHXDXDL@TDnANRBh@FF@PBp@Dj@BhBFFBNBJ@JBLBFBFBNHPHFDHFLHLJFFNJf@f@f@d@PP\\TPFLFTDz@NnD^v@HZDxAPt@HzC^~AP~@JTBJ@rAPdBPL@J@^Dv@JJ@\\DTBb@Dd@FD@p@FNB|@LrBXv@JRB\\FnBVl@HJ@vAN^D^Fv@NvAVTD`AL`@Fp@HNBVF^FVDVH\\N\\\\Z`@PT`BbC\\f@T^`@l@vAlB`@f@^h@PV\\j@PVR^TZHNT\\HRTf@@FP`@pA|CbAzCb@fAFP`@z@N\\\\r@JRn@rAr@xAZn@Vf@JNT^DHp@|@z@dAx@x@hBrBb@n@T\\hA~Bh@hAf@dAzAxC\\z@Tl@Pd@HXHXBN@FFVh@nCRhAXz@Ph@Td@r@lA?@FH`@j@hA|ARZz@hAX^`ApA~@lA@BJJLNZX~ArA~CjCtChBzAfAhAx@pAx@TNNHTJNFND\\FPBN@N@PARARCNCdGiB`@MhA[VIJCz@W`AQNCr@O|B}@HAREHC`B_@LEdBc@bA[pBk@|@[l@Ox@Y|C{@`FyA"
+                            },
+                            "startLocation": {
+                                "latLng": {
+                                    "latitude": 13.053411599999999,
+                                    "longitude": 80.2525514
+                                }
+                            },
+                            "endLocation": {
+                                "latLng": {
+                                    "latitude": 13.0101792,
+                                    "longitude": 80.2279022
+                                }
+                            },
+                            "navigationInstruction": {
+                                "maneuver": "TURN_RIGHT",
+                                "instructions": "Anna Salai/Chennai - Trichy Hwy/Gemini Flyover/Mount Rdত গৈ থাকিবলৈ সোঁফালে যাওক\nChennai - Trichy Hwyতে গৈ থাকক\n(৪.৮ কিঃ মিঃত বাওঁফালে থকা)Arulmigu Pidari Ilan Kaliamman Temple - Saidapet City, Chennai District, Tamil Nadu, Indiaৰ ওচৰেদি যাওক"
+                            },
+                            "localizedValues": {
+                                "distance": {
+                                    "text": "৬.৩ কিল’মিটাৰ"
+                                },
+                                "staticDuration": {
+                                    "text": "14 mins"
+                                }
+                            },
+                            "travelMode": "DRIVE"
+                        },
+                        {
+                            "distanceMeters": 824,
+                            "staticDuration": "109s",
+                            "polyline": {
+                                "encodedPolyline": "s`lnAkothNr@IJAH?H?L@F@B@DBBBBDBD@B@B?B?DABADEJIXiBjFEPAD?DAN}@dCi@rAIVIXWv@Y~@IZc@rAUv@AFSj@IVERKVU`AUx@EPQ|@Kb@?BAB"
+                            },
+                            "startLocation": {
+                                "latLng": {
+                                    "latitude": 13.0101792,
+                                    "longitude": 80.2279022
+                                }
+                            },
+                            "endLocation": {
+                                "latLng": {
+                                    "latitude": 13.012069799999999,
+                                    "longitude": 80.2214731
+                                }
+                            },
+                            "navigationInstruction": {
+                                "maneuver": "TURN_SLIGHT_RIGHT",
+                                "instructions": "Chennai - Nagapattinam Hwy/Chennai - Trichy Hwy/Taluk Office Rd পাবলৈ সামান্য সোঁফালে ঘূৰক\nChennai - Nagapattinam Hwy/Chennai - Trichy Hwyতে গৈ থাকক\n(৪৫০ মিঃত সোঁফালে থকা)Lemon Tree Hotel, Chennaiৰ ওচৰেদি যাওক"
+                            },
+                            "localizedValues": {
+                                "distance": {
+                                    "text": "০.৮ কিল’মিটাৰ"
+                                },
+                                "staticDuration": {
+                                    "text": "2 mins"
+                                }
+                            },
+                            "travelMode": "DRIVE"
+                        },
+                        {
+                            "distanceMeters": 1771,
+                            "staticDuration": "207s",
+                            "polyline": {
+                                "encodedPolyline": "mllnAegshNGTCJK`@Np@VhAPr@Lp@`@fB@DR~@n@xCNf@ZbADPX|@Ld@?@J^L`@^`A^fAHTLZFTDNBL@HBT?DBTLjB?HBL?F@F@DBJBJDLTp@t@`CFRrAtEDHBJDJJb@Lp@J\\Lj@T|@BHNj@Jb@V~@JZP|@VnAFXFZDh@F~@Fv@@HJlAFr@B\\Dj@Fj@Dt@F|@Dd@DhA"
+                            },
+                            "startLocation": {
+                                "latLng": {
+                                    "latitude": 13.012069799999999,
+                                    "longitude": 80.2214731
+                                }
+                            },
+                            "endLocation": {
+                                "latLng": {
+                                    "latitude": 13.0076077,
+                                    "longitude": 80.20594539999999
+                                }
+                            },
+                            "navigationInstruction": {
+                                "maneuver": "STRAIGHT",
+                                "instructions": "Anna Salai/Chennai - Nagapattinam Hwy/Chennai - Trichy Hwy/Mount Rdত পোনে পোনে গৈ থাকক\n(বাওঁফালে থকা)Alexander Squareৰ ওচৰেদি যাওক"
+                            },
+                            "localizedValues": {
+                                "distance": {
+                                    "text": "১.৮ কিল’মিটাৰ"
+                                },
+                                "staticDuration": {
+                                    "text": "3 mins"
+                                }
+                            },
+                            "travelMode": "DRIVE"
+                        },
+                        {
+                            "distanceMeters": 2447,
+                            "staticDuration": "283s",
+                            "polyline": {
+                                "encodedPolyline": "qpknAefphNFF@BFNJ\\DNFRDVPj@L\\FTHX^~@BFJXJVr@nAJN^h@V^NVXb@RXT^Hh@Tp@Vd@\\`@TVTRHDFHLVFBTJXHd@Nx@R~@RXB`@Fh@HvB\\ZJ^N\\NJFFDPLLLLN^p@J^H^BV@`@AR?N?P?FAJC\\E\\MtAMrBEr@A`@AH@`@BZDXJZP^Xb@f@l@HJLPJPNPjA`BzB~CXZf@t@x@dAj@|@bArAbApA`@j@PVHJHLPRdB`CV\\@Bv@fAj@t@f@p@TVj@n@v@x@t@z@^n@d@z@BFFP"
+                            },
+                            "startLocation": {
+                                "latLng": {
+                                    "latitude": 13.0076077,
+                                    "longitude": 80.20594539999999
+                                }
+                            },
+                            "endLocation": {
+                                "latLng": {
+                                    "latitude": 12.995566,
+                                    "longitude": 80.1887003
+                                }
+                            },
+                            "navigationInstruction": {
+                                "maneuver": "TURN_SLIGHT_LEFT",
+                                "instructions": "Chennai - Nagapattinam Hwy/Chennai - Trichy Hwyলৈ যাবলৈ সামান্য বাওঁফালে\n(১.৩ কিঃ মিঃত বাওঁফালে থকা)India Postৰ ওচৰেদি যাওক"
+                            },
+                            "localizedValues": {
+                                "distance": {
+                                    "text": "২.৪ কিল’মিটাৰ"
+                                },
+                                "staticDuration": {
+                                    "text": "5 mins"
+                                }
+                            },
+                            "travelMode": "DRIVE"
+                        },
+                        {
+                            "distanceMeters": 2859,
+                            "staticDuration": "324s",
+                            "polyline": {
+                                "encodedPolyline": "ieinAkzlhNb@fAf@hAN^LXVr@FNDJRd@\\z@p@zAnA`DBJZp@p@xArBtEjAxBNZRXjAlBpElGpCxDr@~@x@lAr@~@\\`@v@bAbAvA|AdCzC`F\\h@HLHLtCrEp@nA`@p@n@jAfB|CnB~CLT~@hBb@x@T`@tArCnAdCnAdCrAnClA|Bd@|@LTNVh@dA"
+                            },
+                            "startLocation": {
+                                "latLng": {
+                                    "latitude": 12.995566,
+                                    "longitude": 80.1887003
+                                }
+                            },
+                            "endLocation": {
+                                "latLng": {
+                                    "latitude": 12.981403799999999,
+                                    "longitude": 80.1667497
+                                }
+                            },
+                            "navigationInstruction": {
+                                "maneuver": "STRAIGHT",
+                                "instructions": "ஹெச்பி பெட்ரோல் பம்ப் - கிருஷ்ணராஜ் அண்ட் கோৰ পাছত Chennai - Nagapattinam Hwy/Chennai - Theni Hwy/Chennai - Trichy Hwy/Grand Southern Trunk Rdত পোনে পোনে গৈ থাকক\n(৯৫০ মিঃত বাওঁফালে থকা)Meteorological Observatoryৰ ওচৰেদি যাওক"
+                            },
+                            "localizedValues": {
+                                "distance": {
+                                    "text": "২.৯ কিল’মিটাৰ"
+                                },
+                                "staticDuration": {
+                                    "text": "5 mins"
+                                }
+                            },
+                            "travelMode": "DRIVE"
+                        },
+                        {
+                            "distanceMeters": 47,
+                            "staticDuration": "16s",
+                            "polyline": {
+                                "encodedPolyline": "wlfnAeqhhNa@^IFSP"
+                            },
+                            "startLocation": {
+                                "latLng": {
+                                    "latitude": 12.981403799999999,
+                                    "longitude": 80.1667497
+                                }
+                            },
+                            "endLocation": {
+                                "latLng": {
+                                    "latitude": 12.981715,
+                                    "longitude": 80.1664598
+                                }
+                            },
+                            "navigationInstruction": {
+                                "maneuver": "TURN_RIGHT",
+                                "instructions": "Airport Rdৰ দিশত সোঁফালে ঘূৰক"
+                            },
+                            "localizedValues": {
+                                "distance": {
+                                    "text": "৪৭ মিঃ"
+                                },
+                                "staticDuration": {
+                                    "text": "1 min"
+                                }
+                            },
+                            "travelMode": "DRIVE"
+                        },
+                        {
+                            "distanceMeters": 198,
+                            "staticDuration": "48s",
+                            "polyline": {
+                                "encodedPolyline": "wnfnAkohhNj@|@Vb@LXH^HZRv@JRFLLNTT"
+                            },
+                            "startLocation": {
+                                "latLng": {
+                                    "latitude": 12.981715,
+                                    "longitude": 80.1664598
+                                }
+                            },
+                            "endLocation": {
+                                "latLng": {
+                                    "latitude": 12.9808259,
+                                    "longitude": 80.164898499999993
+                                }
+                            },
+                            "navigationInstruction": {
+                                "maneuver": "TURN_LEFT",
+                                "instructions": "Airport Rd পাবলৈ বাওঁফালে ঘূৰক"
+                            },
+                            "localizedValues": {
+                                "distance": {
+                                    "text": "০.২ কিল’মিটাৰ"
+                                },
+                                "staticDuration": {
+                                    "text": "1 min"
+                                }
+                            },
+                            "travelMode": "DRIVE"
+                        },
+                        {
+                            "distanceMeters": 106,
+                            "staticDuration": "38s",
+                            "polyline": {
+                                "encodedPolyline": "eifnAsehhNWVQJg@Rs@XM\\"
+                            },
+                            "startLocation": {
+                                "latLng": {
+                                    "latitude": 12.9808259,
+                                    "longitude": 80.164898499999993
+                                }
+                            },
+                            "endLocation": {
+                                "latLng": {
+                                    "latitude": 12.9815749,
+                                    "longitude": 80.1643395
+                                }
+                            },
+                            "navigationInstruction": {
+                                "maneuver": "TURN_RIGHT",
+                                "instructions": "সোঁফালে ঘূৰক"
+                            },
+                            "localizedValues": {
+                                "distance": {
+                                    "text": "০.১ কিল’মিটাৰ"
+                                },
+                                "staticDuration": {
+                                    "text": "1 min"
+                                }
+                            },
+                            "travelMode": "DRIVE"
+                        },
+                        {
+                            "distanceMeters": 90,
+                            "staticDuration": "29s",
+                            "polyline": {
+                                "encodedPolyline": "ymfnAcbhhNQk@GYSk@Mg@"
+                            },
+                            "startLocation": {
+                                "latLng": {
+                                    "latitude": 12.9815749,
+                                    "longitude": 80.1643395
+                                }
+                            },
+                            "endLocation": {
+                                "latLng": {
+                                    "latitude": 12.981873499999999,
+                                    "longitude": 80.1651108
+                                }
+                            },
+                            "navigationInstruction": {
+                                "maneuver": "TURN_SHARP_RIGHT",
+                                "instructions": "তীব্ৰভাৱে সোঁফালে ঘূৰক"
+                            },
+                            "localizedValues": {
+                                "distance": {
+                                    "text": "৯০ মিঃ"
+                                },
+                                "staticDuration": {
+                                    "text": "1 min"
+                                }
+                            },
+                            "travelMode": "DRIVE"
+                        },
+                        {
+                            "distanceMeters": 22,
+                            "staticDuration": "5s",
+                            "polyline": {
+                                "encodedPolyline": "uofnA}fhhN]X"
+                            },
+                            "startLocation": {
+                                "latLng": {
+                                    "latitude": 12.981873499999999,
+                                    "longitude": 80.1651108
+                                }
+                            },
+                            "endLocation": {
+                                "latLng": {
+                                    "latitude": 12.9820215,
+                                    "longitude": 80.1649805
+                                }
+                            },
+                            "navigationInstruction": {
+                                "maneuver": "TURN_LEFT",
+                                "instructions": "বাওঁফালে ঘূৰক"
+                            },
+                            "localizedValues": {
+                                "distance": {
+                                    "text": "২২ মিঃ"
+                                },
+                                "staticDuration": {
+                                    "text": "1 min"
+                                }
+                            },
+                            "travelMode": "DRIVE"
+                        },
+                        {
+                            "distanceMeters": 14,
+                            "staticDuration": "11s",
+                            "polyline": {
+                                "encodedPolyline": "spfnAcfhhNHV"
+                            },
+                            "startLocation": {
+                                "latLng": {
+                                    "latitude": 12.9820215,
+                                    "longitude": 80.1649805
+                                }
+                            },
+                            "endLocation": {
+                                "latLng": {
+                                    "latitude": 12.981974,
+                                    "longitude": 80.1648596
+                                }
+                            },
+                            "navigationInstruction": {
+                                "maneuver": "TURN_LEFT",
+                                "instructions": "বাওঁফালে ঘূৰক\nআপোনাৰ গন্তব্যস্থান বাওঁফালে থাকিব"
+                            },
+                            "localizedValues": {
+                                "distance": {
+                                    "text": "১৪ মিঃ"
+                                },
+                                "staticDuration": {
+                                    "text": "1 min"
+                                }
+                            },
+                            "travelMode": "DRIVE"
+                        }
+                    ],
+                    "localizedValues": {
+                        "distance": {
+                            "text": "১৯.৭ কিল’মিটাৰ"
+                        },
+                        "duration": {
+                            "text": "50 mins"
+                        },
+                        "staticDuration": {
+                            "text": "45 mins"
+                        }
+                    }
+                }
+            ],
+            "distanceMeters": 19716,
+            "duration": "3027s",
+            "staticDuration": "2680s",
+            "polyline": {
+                "encodedPolyline": "{oznAky|hN@Qx@GfBQ^Ep@EvAIRApCU`AGd@Cr@GVCDNFPBHDV@\\Bv@Bv@DbB@vC@|B?NAlA@H?d@AbC?b@At@A|B@`@@p@^AlCOd@ExAK\\C^ENAPANClCM@?JAnAEVAL?X@nALB@ZNDCDCBAD?B?D?B@DBBB@BBD@D?D?DADCBJBB@B@@?@@@@?@DJFLTh@b@bAN\\HLNX^n@HNj@z@n@`A|@pAfAtAHLn@t@^f@`@d@TRPRTNNH?A@??A@??A@?@?@A@?@?@?@??@@?@??@@?@@?@@??@@??@?@?@?@@??@?@A@XCF?dADdCHxADtAFX@R?zBHl@BZ@f@@rADL@J?B@|@@N@X@b@?pABX@n@BD?H?H@J?H@h@AN@Z@RBXDp@JTFR?F?B@FCz@Fh@H`@Hh@J`@JxAb@jAVXF^JLk@h@kCHe@Fe@B_@BUBO@IBKBGDGJOLKVSt@e@h@_@j@g@`A{@V[NNfA|AZb@pBrCNPp@v@JLNTf@j@v@fAb@l@PT`ApAp@~@d@l@h@p@FJbAtAh@r@JL`AfA~@|@t@p@`BrAFDXVLL|@pAvFpId@l@l@t@X`@h@v@v@nAjApBNVFJlAfBfAbBT\\FJLPHJJLHLLJNNHJXTNLFDPHHFFBNFFBJBLFNBRHXDXDL@TDnANRBh@FF@PBp@Dj@BhBFFBNBJ@JBLBFBFBNHPHFDHFLHLJFFNJf@f@f@d@PP\\TPFLFTDz@NnD^v@HZDxAPt@HzC^~AP~@JTBJ@rAPdBPL@J@^Dv@JJ@\\DTBb@Dd@FD@p@FNB|@LrBXv@JRB\\FnBVl@HJ@vAN^D^Fv@NvAVTD`AL`@Fp@HNBVF^FVDVH\\N\\\\Z`@PT`BbC\\f@T^`@l@vAlB`@f@^h@PV\\j@PVR^TZHNT\\HRTf@@FP`@pA|CbAzCb@fAFP`@z@N\\\\r@JRn@rAr@xAZn@Vf@JNT^DHp@|@z@dAx@x@hBrBb@n@T\\hA~Bh@hAf@dAzAxC\\z@Tl@Pd@HXHXBN@FFVh@nCRhAXz@Ph@Td@r@lA?@FH`@j@hA|ARZz@hAX^`ApA~@lA@BJJLNZX~ArA~CjCtChBzAfAhAx@pAx@TNNHTJNFND\\FPBN@N@PARARCNCdGiB`@MhA[VIJCz@W`AQNCr@O|B}@HAREHC`B_@LEdBc@bA[pBk@|@[l@Ox@Y|C{@`FyAr@IJAH?H?L@F@B@DBBBBDBD@B@B?B?DABADEJIXiBjFEPAD?DAN}@dCi@rAIVIXWv@Y~@IZc@rAUv@AFSj@IVERKVU`AUx@EPQ|@Kb@?BABGTCJK`@Np@VhAPr@Lp@`@fB@DR~@n@xCNf@ZbADPX|@Ld@?@J^L`@^`A^fAHTLZFTDNBL@HBT?DBTLjB?HBL?F@F@DBJBJDLTp@t@`CFRrAtEDHBJDJJb@Lp@J\\Lj@T|@BHNj@Jb@V~@JZP|@VnAFXFZDh@F~@Fv@@HJlAFr@B\\Dj@Fj@Dt@F|@Dd@DhAFF@BFNJ\\DNFRDVPj@L\\FTHX^~@BFJXJVr@nAJN^h@V^NVXb@RXT^Hh@Tp@Vd@\\`@TVTRHDFHLVFBTJXHd@Nx@R~@RXB`@Fh@HvB\\ZJ^N\\NJFFDPLLLLN^p@J^H^BV@`@AR?N?P?FAJC\\E\\MtAMrBEr@A`@AH@`@BZDXJZP^Xb@f@l@HJLPJPNPjA`BzB~CXZf@t@x@dAj@|@bArAbApA`@j@PVHJHLPRdB`CV\\@Bv@fAj@t@f@p@TVj@n@v@x@t@z@^n@d@z@BFFPb@fAf@hAN^LXVr@FNDJRd@\\z@p@zAnA`DBJZp@p@xArBtEjAxBNZRXjAlBpElGpCxDr@~@x@lAr@~@\\`@v@bAbAvA|AdCzC`F\\h@HLHLtCrEp@nA`@p@n@jAfB|CnB~CLT~@hBb@x@T`@tArCnAdCnAdCrAnClA|Bd@|@LTNVh@dAa@^IFSPj@|@Vb@LXH^HZRv@JRFLLNTTWVQJg@Rs@XM\\Qk@GYSk@Mg@]XHV"
+            },
+            "description": "Chennai - Trichy Hwy",
+            "viewport": {
+                "low": {
+                    "latitude": 12.9808259,
+                    "longitude": 80.1643395
+                },
+                "high": {
+                    "latitude": 13.0843007,
+                    "longitude": 80.2710295
+                }
+            },
+            "travelAdvisory": {},
+            "localizedValues": {
+                "distance": {
+                    "text": "১৯.৭ কিল’মিটাৰ"
+                },
+                "duration": {
+                    "text": "50 mins"
+                },
+                "staticDuration": {
+                    "text": "45 mins"
+                }
+            },
+            "routeToken": "CrcCCsYBMsMBGqcBCjICFg5VAnxU48IJ7gGTrw3G-AX56QTC1jCRmSuXw8sSobiGBtS9zQyPmQHMzAHuDLMOABI4eC73JKR_wnk0qTrt0uAhFBwr5oIWoUPr8XvzYeL3wm2Rx_aVBavk5XFnoUpzE6T2Wqdr9P9MdtoaEgADsQIdI8QBBuQGlAQAMSQNBioOIQdjC2lrFWkYAxoaWG89AAAAAEWrgS0-SJme15Gn5-rp4gEiF1hiYmladWpETk1uSS1kSVB5ZDZid1FVEAUaUwpRChgKDQoCCAERAAAAAACAZkARiUFg5dCmqUASFggAEAMQBhATEBIYAkIEGgIIBUoCCAEiGwoXWGJiaVpxZVRNOG5JLWRJUHlkNmJ3UVVwASgBIhUA29kTa_VbP7h-h-YKjr69KLGVTZAaGAoKDX-BzAcV7kzYLxIKDRr2ugcVYvPFLw",
+            "routeLabels": [
+                "DEFAULT_ROUTE"
+            ]
+        }
+    ],
+    "geocodingResults": {
+        "origin": {
+            "geocoderStatus": {},
+            "type": [
+                "locality",
+                "political"
+            ],
+            "placeId": "ChIJYTN9T-plUjoRM9RjaAunYW4"
+        },
+        "destination": {
+            "geocoderStatus": {},
+            "type": [
+                "establishment",
+                "parking",
+                "point_of_interest"
+            ],
+            "placeId": "ChIJBROi_CFeUjoR0TMBqmyTdfs"
+        }
+    }
+}
